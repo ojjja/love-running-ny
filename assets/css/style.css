@@ -133,7 +133,6 @@ h1, h2 {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 hr {
@@ -147,7 +146,7 @@ hr {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 }
 
 .right-about-heading {
@@ -155,7 +154,7 @@ hr {
     float: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 }
 
 .right-about-heading h2 {
