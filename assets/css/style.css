@@ -329,11 +329,9 @@ footer {
     }
 }
 
-/* for small sizes screen 800px and downs */
+/* For small screen sizes below 800px width */
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
-    } 
-}
-    
+    }
 }
